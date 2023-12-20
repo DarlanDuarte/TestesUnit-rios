@@ -6,4 +6,23 @@ const createSut = () => {
 
 describe(`Messaging`, () => {
   afterEach(() => jest.clearAllMocks());
+
+  it(`should return message`, () => {
+    const sut = createSut();
+    expect(sut.sendMessage('teste')).toBeUndefined();
+  });
+
+  it(`should call console.log once`, () => {
+    const sut = createSut();
+    const consoleSpy = jest.spyOn(console, 'log');
+    sut.sendMessage('teste');
+    expect(consoleSpy).toHaveBeenCalledTimes(1);
+  });
+
+  it(`should call console.log with "Messagem enviada:"`, () => {
+    const sut = createSut();
+    const consoleSpy = jest.spyOn(console, 'log');
+    sut.sendMessage('teste');
+    expect(consoleSpy).toHaveBeenCalledWith('Messagem enviada: teste');
+  });
 });
