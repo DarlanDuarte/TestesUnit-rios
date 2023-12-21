@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1703176927848" clover="3.2.0">
+  <project timestamp="1703176927848" name="All files">
+    <metrics statements="39" coveredstatements="39" conditionals="0" coveredconditionals="0" methods="22" coveredmethods="22" elements="61" coveredelements="61" complexity="0" loc="39" ncloc="39" packages="1" files="6" classes="6"/>
+    <file name="customer.ts" path="/mnt/c/Users/Darlan/Desktop/Curso de JavaScript e TypeScript do básico ao avançado/Testes-Unitários/src/customer.ts">
+      <metrics statements="12" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="16" count="2" type="stmt"/>
+      <line num="17" count="2" type="stmt"/>
+      <line num="18" count="2" type="stmt"/>
+      <line num="19" count="2" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+      <line num="27" count="1" type="stmt"/>
+      <line num="31" count="1" type="stmt"/>
+      <line num="38" count="2" type="stmt"/>
+      <line num="39" count="2" type="stmt"/>
+      <line num="43" count="1" type="stmt"/>
+      <line num="47" count="1" type="stmt"/>
+    </file>
+    <file name="discount.ts" path="/mnt/c/Users/Darlan/Desktop/Curso de JavaScript e TypeScript do básico ao avançado/Testes-Unitários/src/discount.ts">
+      <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <line num="1" count="2" type="stmt"/>
+      <line num="2" count="9" type="stmt"/>
+      <line num="5" count="6" type="stmt"/>
+      <line num="9" count="2" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="13" count="2" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="17" count="2" type="stmt"/>
+    </file>
+    <file name="messaging.ts" path="/mnt/c/Users/Darlan/Desktop/Curso de JavaScript e TypeScript do básico ao avançado/Testes-Unitários/src/messaging.ts">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="3" type="stmt"/>
+    </file>
+    <file name="persistency.ts" path="/mnt/c/Users/Darlan/Desktop/Curso de JavaScript e TypeScript do básico ao avançado/Testes-Unitários/src/persistency.ts">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="4" type="stmt"/>
+    </file>
+    <file name="product.ts" path="/mnt/c/Users/Darlan/Desktop/Curso de JavaScript e TypeScript do básico ao avançado/Testes-Unitários/src/product.ts">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+    </file>
+    <file name="shopping-cart.ts" path="/mnt/c/Users/Darlan/Desktop/Curso de JavaScript e TypeScript do básico ao avançado/Testes-Unitários/src/shopping-cart.ts">
+      <metrics statements="12" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="9"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="6" type="stmt"/>
+      <line num="7" count="6" type="stmt"/>
+      <line num="10" count="10" type="stmt"/>
+      <line num="14" count="2" type="stmt"/>
+      <line num="18" count="6" type="stmt"/>
+      <line num="22" count="5" type="stmt"/>
+      <line num="23" count="10" type="stmt"/>
+      <line num="28" count="3" type="stmt"/>
+      <line num="32" count="3" type="stmt"/>
+      <line num="36" count="1" type="stmt"/>
+      <line num="37" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
